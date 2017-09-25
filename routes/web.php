@@ -22,7 +22,7 @@ Route::post('messages', function () {
 	$data = request()->all();
 	Mail::send("emails.message", $data, function ($message) use ($data){
 		$message->from($data['email'], $data['name'])
-				->to('fabaziostrio@gmail.com','fabian')
+				->to('alienlegion@gmail.com','alienlegion')
 				->subject($data['subject']);
 	});
 	return back()->with('flash', $data['name'].', tu mensaje a sido recibido');

@@ -15,11 +15,11 @@
                             <!-- Slider -->
                             <section class="cd-intro">
                                 <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                                <span>HOLA MI NOMBRE ES RICARDO Y SOY</span><br>
+                                <span>SALUDO Y OFRECIMIENTO DE PRODUCTOS O SERVICIOS</span><br>
                                 <span class="cd-words-wrapper">
-                                    <b class="is-visible">PREVENCIONISTA</b>
-                                    <b>BORRACHO</b>
-                                    <b>FLETO</b>
+                                    <b class="is-visible">OFRECIMIENTO1</b>
+                                    <b>OFRECIMIENTO2</b>
+                                    <b>OFRECIMIENTO3</b>
                                 </span>
                                 </h1>
                                 </section> <!-- cd-intro -->
