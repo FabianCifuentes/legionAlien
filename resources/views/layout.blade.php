@@ -71,11 +71,11 @@
                     <!-- /responsive nav button -->
                     
                     <!-- logo -->
-                    <div class="navbar-brand">
+                 <!--   <div class="navbar-brand">
                         <a href="{{ route('/') }}" >
                             <img src="images/logo.png" alt="">
                         </a>
-                    </div>
+                    </div> -->
                     <!-- /logo -->
 
                 </div>
@@ -86,7 +86,7 @@
                             <li><a href="{{ route('/') }}" >Inicio</a></li> 
                             <li><a href="{{ route('about') }}">Nosotros</a></li>  
                             <li><a href="{{ route('service') }}">Servicios</a></li> 
-                            <li><a href="{{ route('contact') }}">Contacto</a></li> 
+                            <li><a href="{{ route('contact') }}">Contactos</a></li> 
                         </ul>
                     </div>
                 </nav>
