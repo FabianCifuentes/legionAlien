@@ -4,7 +4,7 @@
 	
 	 <!--
         ==================================================
-        Slider Section Start
+        Slider Section Starts
         ================================================== -->
         <section id="hero-area" >
             <div class="container">
