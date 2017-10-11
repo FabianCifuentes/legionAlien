@@ -38,7 +38,7 @@
                 <div class="row">
 
                     @if(session()->has('flash'))
-                    <div class="alert alert-succes alert-dismissible" role="alert">
+                    <div class="alert alert-success alert-dismissible" role="alert">
                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -90,7 +90,9 @@
                                 
                             </p>
                             <div class="map">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.277552998015!2d90.3678744!3d23.773128800000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0ae4adf3cb9%3A0x7f2cf443b764e4a4!2sShishu+Mela!5e0!3m2!1sen!2s!4v1435516022247" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.626202058071!2d-70.78823538490828!3d-33.53710298074921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662dd149ab07cbb%3A0x76f2477768c972ed!2sPje.+Puerto+Cisnes+2409%2C+Maip%C3%BA%2C+Regi%C3%B3n+Metropolitana!5e0!3m2!1ses!2scl!4v1507568990726" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
                                 
                             </div>
                         </div>

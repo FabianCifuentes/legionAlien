@@ -101,7 +101,7 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">ver imagen</a>        
-                                        <a target="_blank" href="">detalle</a>
+                                        <!--a target="_blank" href="">detalle</a-->
                                     </div>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">ver imagen</a>        
-                                        <a target="_blank" href="">Detalle</a>
+                                        <!--a target="_blank" href="">detalle</a-->
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">ver imagen</a>        
-                                        <a target="_blank" href="">Detalle</a>
+                                        <!--a target="_blank" href="">detalle</a-->
                                     </div>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">ver imagen</a>        
-                                        <a target="_blank" href="">Detalle</a>
+                                       <!--a target="_blank" href="">detalle</a-->
                                     </div>
                                 </div>
                             </div>

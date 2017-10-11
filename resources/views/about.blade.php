@@ -100,7 +100,7 @@
                 <div class="row">
                     <h2 class="subtitle text-center">conoce al equipo</h2>
                     <div class="col-md-3">
-                        <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
+                        <!--div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                             <div class="team-img">
                                 <img src="images/team/team-1.jpg" class="team-pic" alt="">
                             </div>
@@ -113,7 +113,7 @@
                                 <a href="https://cl.linkedin.com/" target="_blank"><i class="ion-social-linkedin-outline"></i></a>
                                 <a href="https://plus.google.com/?hl=es" target="_blank"><i class="ion-social-googleplus-outline"></i></a>
                             </p>
-                        </div>
+                        </div-->
                     </div>
                     <div class="col-md-3">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
@@ -152,7 +152,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
+                        <!--div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                             <div class="team-img">
                                 <img src="images/team/team-4.jpg" class="team-pic" alt="">
                             </div>
@@ -165,7 +165,7 @@
                                 <a href="https://cl.linkedin.com/" target="_blank"><i class="ion-social-linkedin-outline"></i></a>
                                 <a href="https://plus.google.com/?hl=es" target="_blank"><i class="ion-social-googleplus-outline"></i></a>
                             </p>
-                        </div>
+                        </div-->
                     </div>
                 </div>
             </div>

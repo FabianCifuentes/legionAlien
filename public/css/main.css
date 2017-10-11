@@ -83,7 +83,7 @@ a:hover {
 .navbar-header .navbar-brand a {
   height: auto;
   display: inline-block;
-  margin-top: 8px;
+  margin-top: -7px;
 }
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle {
@@ -504,6 +504,7 @@ figure figcaption p {
   margin-bottom: 0;
   margin-top: 10px;
 }
+
 #footer .copyright a {
   color: #02bdd5;
 }
@@ -987,6 +988,11 @@ article {
 }
 .gallery {
   padding: 100px;
+}
+
+.buttons{
+  margin-top: -10px;
+  margin-left: 25px;
 }
 .gallery figure .buttons {
   left: 40%;

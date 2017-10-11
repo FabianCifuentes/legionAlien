@@ -68,6 +68,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
+                    <div class="navbar-brand">
+                        <a href="{{ route('/') }}" >
+                            <img src="images/logo.png" alt="">
+                        </a>
+                    </div>
                     <!-- /responsive nav button -->
                     
                     <!-- logo -->
@@ -122,7 +127,7 @@
            	<footer id="footer">
                 <div class="container">
                     <div class="col-md-8">
-                        <p class="copyright">Copyright: <span>2017</span> . Design and Developed by <a href="https://www.facebook.com/mhenriquezgacitua">PoesS</a></p>
+                        <p class="copyright"><span>2017</span> © Copyright | Diseñado y Desarrollado por Knowmad TI Chile <a href="https://www.facebook.com/"></a></p>
                     </div>
                     <div class="col-md-4">
                         <!-- Social Media -->

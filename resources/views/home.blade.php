@@ -85,7 +85,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
@@ -131,7 +131,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
@@ -154,7 +154,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
@@ -177,7 +177,7 @@
                                     <div class="overlay">
                                         <div class="buttons">
                                             <a rel="gallery" class="fancybox" href="images/portfolio/item-5.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
@@ -198,9 +198,9 @@
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/item-6.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
-                                        <div class="buttons">
-                                            <a rel="gallery" class="fancybox" href="images/portfolio/item-6.jpg">ver imagen</a>
-                                            <a target="_blank" href="single-portfolio.html">Detalles</a>
+                                        <div class="buttons" style="margin-top: -10px;margin-left: 25px;">
+                                            <a rel="gallery" class="fancybox"  href="images/portfolio/item-6.jpg">ver imagen</a>
+                                            <!--a target="_blank" href="single-portfolio.html">Detalles</a-->
                                         </div>
                                     </div>
                                 </div>
