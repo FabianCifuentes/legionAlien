@@ -122,7 +122,7 @@
                            
             <!--
             ==================================================
-            Footer Section Start
+            Footer Section Start (comentario de prueba)
             ================================================== -->
            	<footer id="footer">
                 <div class="container">
